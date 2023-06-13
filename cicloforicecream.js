@@ -10,7 +10,8 @@ let iceCreamFlavors = [
   "Mint Chip",
   "Fantasía",
   "Cafe",
-  "chocolate2"
+  "chocolate2",
+  "chocolate3",
 ];
 
 
